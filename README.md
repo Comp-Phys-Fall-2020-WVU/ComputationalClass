@@ -23,12 +23,12 @@ Welcome to computational physics! This is the repository with the [syllabus](./s
     * [Error Accumulation](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week3/Errors.ipynb)
     * [Databases](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week3/Pandas.ipynb)
 * Week 4
-    * [Random Numbers](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Random_numbers.ipynb)
-    * [Monte Carlo](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/MC.ipynb)
-      • [Random Walk](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/RandomWalk.ipynb)
-    * [Projects](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Projects_CP.md)
-      • [Project Approach](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Projects.pdf)
-    * [Integration rules](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Integration.ipynb)
+    * [Random Numbers](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/Random_numbers.ipynb)
+    * [Monte Carlo](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/MC.ipynb)
+      • [Random Walk](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/RandomWalk.ipynb)
+    * [Projects](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/Projects_CP.md)
+      • [Project Approach](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/Projects.pdf)
+    * [Integration rules](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/Integration.ipynb)
 * Week 5
     * [Integration rules](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week5/Integration.ipynb)
       • [Notes](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week5/NotesIntegration.pdf)
