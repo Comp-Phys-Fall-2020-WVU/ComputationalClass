@@ -10,12 +10,12 @@ Welcome to computational physics! This is the repository with the [syllabus](./s
 
 * Week 1
     * [Introduction and game rules](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/Introduction-to-Computational-Physics.md)
-    * [Google colab](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/IntroductionGoogleColab.pdf)
+    * [Google colab](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/IntroductionGoogleColab.md)
     * [How Git Works](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/HowGitWorks.pdf)
     * [Introduction to Shell](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/IntroductionShell.pdf)
       • [HPC/SPRUCE](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/Introduction_to_HPC.pdf)
 * Week 2
-    * [Introduction to Python](https://nbviewer.jupyter.org/github/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Introduction_to_Python.ipynb)
+    * [Introduction to Python](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Introduction_to_Python.ipynb)
     * [Numpy](https://nbviewer.jupyter.org/github/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Numpy.ipynb)
     * [Matplotlib](https://nbviewer.jupyter.org/github/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Matplotlib.ipynb)
 * Week 3
