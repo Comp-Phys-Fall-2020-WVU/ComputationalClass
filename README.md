@@ -10,7 +10,7 @@ Welcome to computational physics! This is the repository with the [syllabus](./s
 
 * Week 1
     * [Introduction and game rules](https://github.com/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week1/Introduction-to-Computational-Physics.md)
-    * [Google colab] (https://github.com/alromero/ComputationalPhysics/blob/master/classes/notebook_lectures/IntroductionGoogleColab.pdf)
+    * [Google colab] (https://github.com/ahromero/ComputationalPhysics/tree/master/notebook_lectures/week1/IntroductionGoogleColab.pdf)
     * [How Git Works](https://github.com/alromero/ComputationalPhysics/blob/master/classes/notebook_lectures/HowGitWorks.pdf)
     * [Introduction to Shell](https://github.com/alromero/ComputationalPhysics/blob/master/classes/notebook_lectures/IntroductionShell.pdf)
       • [HPC/SPRUCE](https://github.com/alromero/ComputationalPhysics/blob/master/classes/notebook_lectures/Introduction_to_HPC.pdf)
