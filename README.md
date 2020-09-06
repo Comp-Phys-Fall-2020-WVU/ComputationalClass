@@ -19,9 +19,9 @@ Welcome to computational physics! This is the repository with the [syllabus](./s
     * [Numpy](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Numpy.ipynb)
     * [Matplotlib](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Matplotlib.ipynb)
 * Week 3
-    * [Scipy](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week2/Scipy.ipynb)
-    * [Error Accumulation](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/notebook_lectures/week3/Errors.ipynb)
-    * [Databases](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week3/Pandas.ipynb)
+    * [Scipy](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week3/Scipy.ipynb)
+    * [Error Accumulation](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week3/Errors.ipynb)
+    * [Databases](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week3/Pandas.ipynb)
 * Week 4
     * [Random Numbers](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/Random_numbers.ipynb)
     * [Monte Carlo](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week4/MC.ipynb)
