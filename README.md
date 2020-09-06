@@ -16,8 +16,8 @@ Welcome to computational physics! This is the repository with the [syllabus](./s
       • [HPC/SPRUCE](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/Introduction_to_HPC.pdf)
 * Week 2
     * [Introduction to Python](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Introduction_to_Python.ipynb)
-    * [Numpy](https://nbviewer.jupyter.org/github/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Numpy.ipynb)
-    * [Matplotlib](https://nbviewer.jupyter.org/github/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Matplotlib.ipynb)
+    * [Numpy](https://https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Numpy.ipynb)
+    * [Matplotlib](https://https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Matplotlib.ipynb)
 * Week 3
     * [Scipy](https://nbviewer.jupyter.org/github/ahromero/ComputationalPhysics/tree/master/classes/notebook_lectures/week2/Scipy.ipynb)
     * [Error Accumulation](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/notebook_lectures/week3/Errors.ipynb)
