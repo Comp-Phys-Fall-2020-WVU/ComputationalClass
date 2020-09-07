@@ -72,7 +72,7 @@ Welcome to computational physics! This is the repository with the [syllabus](./s
     * [Molecular Dynamics](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week12/MD.ipynb)
     * [Fitting Revisited](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week12/Fitting.ipynb)
     * [GUIs](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week12/guis.ipynb)
-    * [Graphical User Interfaces](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week11/GUI.ipynb)
+    * [Graphical User Interfaces](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week12/GUI.ipynb)
 * Week 13: Partial Differential Equations
     * [PDEs part 1](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week13/PDE_1.ipynb)
     * [PDEs Part 2](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week13/PDE_2.ipynb)
