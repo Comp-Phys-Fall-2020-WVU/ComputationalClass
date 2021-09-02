@@ -8,34 +8,33 @@ Welcome to computational physics! This is the repository with the [syllabus](./s
 
 ### Topics and links
 
-* Week 1
+* Week 1, 2 
     * [Introduction and game rules](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/Introduction-to-Computational-Physics.md)
     * [Google colab](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/IntroductionGoogleColab.md)
     * [How Git Works](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/HowGitWorks.pdf)
     * [Introduction to Shell](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/IntroductionShell.pdf)
-      • [HPC/SPRUCE](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week1/Introduction_to_HPC.pdf)
-* Week 2
+* Week 3
     * [Introduction to Python](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Introduction_to_Python.ipynb)
     * [Numpy](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Numpy.ipynb)
     * [Matplotlib](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week2/Matplotlib.ipynb)
-* Week 3
+* Week 4
     * [Scipy](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week3/Scipy.ipynb)
     * [Error Accumulation](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week3/Errors.ipynb)
     * [Databases](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week3/Pandas.ipynb)
-* Week 4
+* Week 5
     * [Random Numbers](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/Random_numbers.ipynb)
     * [Monte Carlo](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/MC.ipynb)
       • [Random Walk](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/RandomWalk.ipynb)
     * [Projects](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/Projects_CP.md)
       • [Project Approach](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/Projects.pdf)
     * [Integration rules](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week4/Integration.ipynb)
-* Week 5
+* Week 6
     * [Integration rules](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week5/Integration.ipynb)
       • [Notes]((https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week5/NotesIntegration.pdf)
     * [Monte Carlo Integration](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week5/MCintegration.ipynb)
       • [Notes](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week5/Notesmcintegration.pdf)
     * [Numerical Differentiation](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week5/Differentiation.ipynb)
-* Week 6
+* Week 7
     * [Vectorization](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week6/Vectorization.ipynb) 
       • [Notes](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week6/NotesVectorization.pdf)
     * [Linear Algebra](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week6/Linearalgebra.ipynb) 
@@ -45,21 +44,21 @@ Welcome to computational physics! This is the repository with the [syllabus](./s
       • [Sympy](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week6/String_masses_sympy.ipynb)
     * [Linear Regression]((https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week6/Fitting.ipynb) 
       • [Spline Fit](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week6/Spline_fit.ipynb)
-* Week 7
+* Week 8
     * [Example Worksheet](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week7/WorksheetExample.ipynb)
     * [Probability_distributions](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week7/ProbabilityDistributions.ipynb)
     * [Minimizing and Fitting Probability Distributions](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week7/FittingProbDistributions.ipynb)
     * [Tools for Fitting Probability Distributions](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week7/Fittingtools.ipynb)
-* Week 8
+* Week 9
     * [Confidence Intervals](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week8/Confidence_intervals.ipynb)
     * [Markov Chain Monte Carlo](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week8/MCMC.ipynb)
     * [Computational performance](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week8/ComputationalPerformace.ipynb)
-* Week 9
+* Week 10
     * [Performance Computing](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week9/HPC_Performance.ipynb)
      • [Profiling Code, Reading and Writing Files](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week9/Profiling.ipynb)
     * [The Runge–Kutta Algorithm](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week9/RK.ipynb)
     * [Intro to ODEs](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week9/ODE.ipynb)
-* Week 10
+* Week 11
     * [Solving ODE](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week10/Solving_ode.ipynb)
     * [Fourier Series](https://nbviewer.jupyter.org/github/alromero/ComputationalPhysics/blob/master/classes/week10/Fourier_series.ipynb)
     * [Fourier Series](https://github.com/Comp-Phys-Fall-2020-WVU/ComputationalClass/blob/master/notebook_lectures/week10/Fourier_series.ipynb)
